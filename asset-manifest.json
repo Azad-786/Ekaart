@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ekaart/static/css/main.0b17f65f.css",
+    "main.js": "/Ekaart/static/js/main.01d0033c.js",
+    "index.html": "/Ekaart/index.html",
+    "main.0b17f65f.css.map": "/Ekaart/static/css/main.0b17f65f.css.map",
+    "main.01d0033c.js.map": "/Ekaart/static/js/main.01d0033c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b17f65f.css",
+    "static/js/main.01d0033c.js"
+  ]
+}
